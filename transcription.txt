@@ -1,0 +1,1 @@
+the event loop is a mechanism that handles a synchronous callbacks in node JS node JS is single threaded but can perform non blocking IO by deleting operation to the system and handling their results asynchronously
